@@ -16,3 +16,6 @@
 15. To cover such callenging cases,
 16. We verify the effectiveness of our ~
 17. The training of ~ consists of ~ parts:
+18. Our goal is to ~
+19. We start by ~ing ~ in Sec. ~.
+20. Our proposed method includes ~ (described in Sec. ~), ~ (in Sec. ~), and ~ (explained in Sec. ~).
