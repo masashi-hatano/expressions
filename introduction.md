@@ -25,3 +25,11 @@
 24. We are the first to (explore)~
 25. We conduct extensive experiments on ~ benchmark datasets.
 26. Our method sets a strong baseline for ~
+27. The emergence of wearable devices has drawn the attention of the research community to [egocentric videos], the significance of which can be seen from [egocentric research] in a variety of applications such as ~.
+28. In recent years, the computer vision community has made substantial efforts to build benchmarks, establish new tasks, and develop frameworks for ~.
+29. This example reveals two significant challenges for designing powerful and robust egocentric video understanding system: 1. 2.
+30. To effectively leverage ~ information in [egocentric videos],
+31. Given ~, it is exceedingly challenging to ~. 
+32. Hence, we develop ~. 
+33. Our approach mitigates the impact of ~.
+34. The module helps mitigate ~ and improves ~ robustness.
